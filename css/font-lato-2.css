@@ -2,7 +2,7 @@
   font-family: 'Lato';
   font-style: normal;
   font-weight: 100;
-  src: local('Lato Hairline'), local('Lato-Hairline'), url(../font/LatoLatinHair-Regular.woff) format('woff');
+  src: local('Lato Light'), local('Lato-Light'), url(../font/LatoLatinLight-Regular.woff) format('woff');
   text-rendering: optimizeLegibility;
 }
 @font-face {
