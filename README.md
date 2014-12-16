@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gunta/font-lato-2-subset.png?label=ready&title=Ready)](https://waffle.io/gunta/font-lato-2-subset)
 font-lato-2-subset
 ==================
 
